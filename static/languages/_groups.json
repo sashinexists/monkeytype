@@ -226,6 +226,10 @@
     "languages": ["albanian", "albanian_1k"]
   },
   {
+    "name": "japanese",
+    "languages": ["japanese_hiragana_common", "japanese_katakana_common"]
+  },
+  {
     "name": "code",
     "languages": [
       "code_python",
